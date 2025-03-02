@@ -1,2 +1,6 @@
 I'm going through tutorials and learning
-test-driven programming and golang.
+test-driven development and golang.
+
+
+linter:
+golangci-lint run
